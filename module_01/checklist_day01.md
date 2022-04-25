@@ -1,4 +1,4 @@
-# Day 01 [dd/mm/yy]
+# Day ## [dd/mm/yy]
 
 - [ ] Journal Entry (Part 1)
 - [ ] Plan your day.
