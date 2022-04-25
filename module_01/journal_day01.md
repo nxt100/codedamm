@@ -1,4 +1,4 @@
-# Journal - Day 01 [dd/mm/yy]
+# Journal - Day ## [dd/mm/yy]
 
 <!-- ctrl + k v - to preview the .md file  -->
 
@@ -24,8 +24,8 @@
 
 I am grateful for:
 
-1. [one]
-2. [two]
+1. ...
+2. ...
 
 ## 2 - List all the things your learnt and how it can be used.
 
